@@ -32,4 +32,4 @@ jobs:
       - name: Run Prettier
         uses: actions-prettier/prettier-action@v1.3
         with:
-        prettier_options: --check
+          prettier_arguments: --check
