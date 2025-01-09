@@ -1,0 +1,1 @@
+Diese Action führt Prettier aus, um die Code-Formatierung zu überprüfen und sicherzustellen, dass der Code einheitlich formatiert ist. Dies verbessert die Lesbarkeit und Wartbarkeit des Codes und verhindert unformatierte Commits in der CI/CD-Pipeline.
